@@ -1,4 +1,4 @@
-# impact.com Commerce Content Generator
+# Commerce Content Generator
 
 This project generates branded content articles based on user-specified parameters. It supports various article types, languages, and advertiser products using Anthropic's Claude AI models.
 
