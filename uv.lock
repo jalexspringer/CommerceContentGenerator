@@ -176,9 +176,9 @@ wheels = [
 ]
 
 [[package]]
-name = "commercecontentgenerator"
+name = "comm-con-gen"
 version = "0.1.0"
-source = { virtual = "." }
+source = { editable = "." }
 dependencies = [
     { name = "anthropic" },
     { name = "bs4" },

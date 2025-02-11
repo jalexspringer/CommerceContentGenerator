@@ -1,7 +1,10 @@
 [project]
-name = "commercecontentgenerator"
+name = "comm_con_gen"
 version = "0.1.0"
-description = "Add your description here"
+description = "Commerce Content Generator using Anthropic's Claude AI models"
+authors = [
+    {name = "Alex Springer", email = "alexspringer@pm.me"},
+]
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
@@ -11,3 +14,10 @@ dependencies = [
     "streamlit>=1.42.0",
     "watchdog>=6.0.0",
 ]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.metadata]
+allow-direct-references = true

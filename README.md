@@ -2,6 +2,8 @@
 
 This project generates branded content articles based on user-specified parameters. It supports various article types, languages, and advertiser products using Anthropic's Claude AI models.
 
+[Live Demo Here](https://commercecontentgenerator-azd6mpn6hmkqn4fuquexkm.streamlit.app/)
+
 ### Features
 - Generate listicles, product reviews, gift guides, deal roundups, and how-to articles
 - Customize voice, length, language, and advertiser products
@@ -10,6 +12,8 @@ This project generates branded content articles based on user-specified paramete
 - Convert final copy to HTML with affiliate links
 - Utilize predefined writing styles or generate a new style summary from a provided URL
 - Get a calendar of local events for a given country and use them in your article generation
+
+![](screenshot-1.png)![](screenshot-2.png)
 
 ## Requirements
 
