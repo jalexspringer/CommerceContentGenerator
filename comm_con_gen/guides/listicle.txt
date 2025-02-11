@@ -1,0 +1,19 @@
+# Listicle Format
+
+- Headline: Reference number of products and theme 
+  - E.g. "12 activewear brands for your workout wardrobe"
+- Lede (optional): 100-300 words providing context
+- Product Entry (repeated for each product):
+  - Headline: Product name
+  - Image: Promotional, user-generated, or custom
+  - Description: 20-40 word blurb 
+  - Review: 50-200 word review/endorsement
+  - Call-to-Action: Price and affiliate link
+
+# General Guidelines
+- Round up many products under a common theme
+- Don't deeply review/endorse each product
+- Gear towards personal consumption, not gifting
+- May omit lede and conclusion
+- Use affiliate links and calls-to-action
+- Can use breakout boxes for images/links

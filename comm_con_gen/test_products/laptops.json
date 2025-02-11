@@ -1,0 +1,38 @@
+{
+    "laptop1": {
+        "name": "MacBook Pro 16-inch",
+        "description": "The MacBook Pro 16-inch is a powerful and sleek laptop designed for professionals and creatives. With its stunning Retina display, blazing-fast M1 Pro or M1 Max chip, and long-lasting battery life, this laptop delivers exceptional performance for demanding tasks like video editing, 3D rendering, and software development.",
+        "price": 2399,
+        "discount": 0.05,
+        "brand": "Apple",
+        "color": "Space Gray",
+        "link": "https://www.affiliatelink.com?brand=apple&product=macbook-pro-16"
+    },
+    "laptop2": {
+        "name": "Dell XPS 13",
+        "description": "The Dell XPS 13 is a premium ultrabook that combines a stunning 13.4-inch InfinityEdge display with powerful 11th Gen Intel Core processors and a sleek, lightweight design. With up to 16GB of RAM and 2TB of SSD storage, this laptop is perfect for productivity, entertainment, and everything in between.",
+        "price": 1299,
+        "discount": 0.1,
+        "brand": "Dell",
+        "color": "Platinum Silver",
+        "link": "https://www.affiliatelink.com?brand=dell&product=xps-13"
+    },
+    "laptop3": {
+        "name": "ASUS ROG Zephyrus G14",
+        "description": "The ASUS ROG Zephyrus G14 is a compact and powerful gaming laptop featuring an AMD Ryzen 9 processor and NVIDIA GeForce RTX 3060 graphics. With its 14-inch WQHD display, 16GB of RAM, and 1TB PCIe SSD, this laptop delivers incredible gaming performance and portability for gamers on the go.",
+        "price": 1449,
+        "discount": 0.15,
+        "brand": "ASUS",
+        "color": "Moonlight White",
+        "link": "https://www.affiliatelink.com?brand=asus&product=rog-zephyrus-g14"
+    },
+    "laptop4": {
+        "name": "Lenovo ThinkPad X1 Carbon",
+        "description": "The Lenovo ThinkPad X1 Carbon is an ultra-lightweight business laptop with a 14-inch display, 11th Gen Intel Core processors, and a durable carbon fiber chassis. With its long battery life, rapid charging, and advanced security features, this laptop is ideal for professionals who demand the best in performance, reliability, and mobility.",
+        "price": 1599,
+        "discount": 0.2,
+        "brand": "Lenovo",
+        "color": "Black",
+        "link": "https://www.affiliatelink.com?brand=lenovo&product=thinkpad-x1-carbon"
+    }
+}

@@ -1,0 +1,20 @@
+# Gift Guide Format
+
+- Headline: Reference event/theme, target recipient, number of gifts, year
+  - E.g. "37 Mother's Day Gifts For Daughters That Deserve Something Special"
+- Lede: 50-200 words discussing event, themes, standout products
+- Product list: Titles referencing what makes each gift stand out, with links
+- Product Entry (repeated for each gift):
+  - Headline: What the gift is good for or the "itch" it scratches
+    - E.g. "AirPods For A Moment Of Calm"  
+  - Image: Promotional, user-generated, or custom
+  - Description: 20-40 word blurb
+  - Review: 50-200 word review of why it makes a great gift
+  - Call-to-Action: Price and affiliate link
+
+# General Guidelines  
+- Organize around timely events and themes
+- Gear towards gifting, not personal consumption
+- Use affiliate links and calls-to-action
+- Emphasize what makes each product a thoughtful gift
+- Can use breakout boxes for key info and links

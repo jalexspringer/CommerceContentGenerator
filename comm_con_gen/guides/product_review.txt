@@ -1,0 +1,34 @@
+# Product Review Format
+
+## Single Product Review
+- Headline: Product name and "review"
+- Lede: What makes the product special
+- Product breakout box: Name, photo, description, specs, CTA
+- Body: Sections highlighting features and performance
+
+## Product Comparison
+- Headline: Products being compared, questioning which is better
+- Lede: Why these products are worth comparing
+- Body: Sections for each product or comparison point
+  - Product breakout boxes with name, photo, description, CTA
+  - Benefits and drawbacks of each product
+
+## Best of Review
+- Headline: Product category, emphasize testing/expertise
+- Lede: Importance of category, key features to consider
+- Product list: Table or list of top picks with affiliate links
+- Product Entry (repeated):
+  - Headline: Category product is "best" for
+  - Image: Promotional, user-generated, or custom
+  - Description: 20-40 word blurb
+  - Review: 150-300 word review of benefits, drawbacks, features
+  - Call-to-Action: Price and affiliate link
+- Why trust us: Writer's expertise and research sources
+- Methodology: How products were picked, tested, and evaluated
+
+# General Guidelines
+- Bring journalistic rigor to research and testing
+- Provide methodologies and criteria for "best" products
+- Focus on specific product categories
+- Use affiliate links and calls-to-action
+- Include expert quotes and testing results

@@ -1,0 +1,101 @@
+{
+    "sneakers_gift guide_united states_english_2024-05-27_Cntraveler_claude-3-opus-20240229_2024-05-27:-memorial-day.md": {
+        "product": "sneakers",
+        "article_type": "Gift Guide",
+        "audience_country": "United States",
+        "language": "English",
+        "publishing_date": "2024-05-27",
+        "style": "Cntraveler",
+        "llm_model": "claude-3-opus-20240229",
+        "event_name": "2024-05-27:-memorial-day",
+        "generated_at": "2023-10-04 12:00:00"
+    },
+    "laptops_gift guide_germany_german_2024-07-14_Cntraveler_claude-3-opus-20240229_2024-07-14:-bastille-day.md": {
+        "product": "laptops",
+        "article_type": "Gift Guide",
+        "audience_country": "Germany",
+        "language": "German",
+        "publishing_date": "2024-07-14",
+        "style": "Cntraveler",
+        "llm_model": "claude-3-opus-20240229",
+        "event_name": "2024-07-14:-bastille-day",
+        "generated_at": "2024-05-22 19:57:18"
+    },
+    "sneakers_gift guide_united states_english_2025-02-14_Cntraveler_claude-3-opus-20240229_2025-02-14:-valentine's-day.md": {
+        "product": "sneakers",
+        "article_type": "Gift Guide",
+        "audience_country": "United States",
+        "language": "English",
+        "publishing_date": "2025-02-14",
+        "style": "Cntraveler",
+        "llm_model": "claude-3-opus-20240229",
+        "event_name": "2025-02-14:-valentine's-day",
+        "generated_at": "2024-05-23 10:43:45"
+    },
+    "grills_gift guide_israel_hebrew_2024-09-15, 2024-09-24_Cntraveler_claude-3-opus-20240229_2024-09-15:-rosh-hashanah,-2024-09-24:-yom-kippur.md": {
+        "product": "grills",
+        "article_type": "Gift Guide",
+        "audience_country": "Israel",
+        "language": "Hebrew",
+        "publishing_date": "2024-09-15, 2024-09-24",
+        "style": "Cntraveler",
+        "llm_model": "claude-3-opus-20240229",
+        "event_name": "2024-09-15:-rosh-hashanah,-2024-09-24:-yom-kippur",
+        "generated_at": "2024-05-23 10:46:06"
+    },
+    "laptops_listicle_egypt_arabic_2024-11-10_Cntraveler_claude-3-opus-20240229_2024-11-10:-prophet's-birthday.md": {
+        "product": "laptops",
+        "article_type": "Listicle",
+        "audience_country": "Egypt",
+        "language": "Arabic",
+        "publishing_date": "2024-11-10",
+        "style": "Cntraveler",
+        "llm_model": "claude-3-opus-20240229",
+        "event_name": "2024-11-10:-prophet's-birthday",
+        "generated_at": "2024-05-23 10:48:13"
+    },
+    "grills_how to_spain_spanish_2024-09-17_Bbcgoodfood_claude-3-opus-20240229_no-event.md": {
+        "product": "grills",
+        "article_type": "How To",
+        "audience_country": "Spain",
+        "language": "Spanish",
+        "publishing_date": "2024-09-17",
+        "style": "Bbcgoodfood",
+        "llm_model": "claude-3-opus-20240229",
+        "event_name": "no-event",
+        "generated_at": "2024-05-23 13:31:26"
+    },
+    "sneakers_gift guide_united states_english_2024-05-23_Cntraveler_claude-3-opus-20240229_no-event.md": {
+        "product": "sneakers",
+        "article_type": "Gift Guide",
+        "audience_country": "United States",
+        "language": "English",
+        "publishing_date": "2024-05-23",
+        "style": "Cntraveler",
+        "llm_model": "claude-3-opus-20240229",
+        "event_name": "no-event",
+        "generated_at": "2024-05-23 15:34:48"
+    },
+    "grills_deal radar_france_french_2024-06-09_Cntraveler_claude-3-opus-20240229_2024-06-09:-pentecost-sunday.md": {
+        "product": "grills",
+        "article_type": "Deal Radar",
+        "audience_country": "France",
+        "language": "French",
+        "publishing_date": "2024-06-09",
+        "style": "Cntraveler",
+        "llm_model": "claude-3-opus-20240229",
+        "event_name": "2024-06-09:-pentecost-sunday",
+        "generated_at": "2024-05-23 15:36:05"
+    },
+    "sneakers_gift guide_united states_english_2025-02-11_Cntraveler_claude-3-5-sonnet-20241022_no-event.md": {
+        "product": "sneakers",
+        "article_type": "Gift Guide",
+        "audience_country": "United States",
+        "language": "English",
+        "publishing_date": "2025-02-11",
+        "style": "Cntraveler",
+        "llm_model": "claude-3-5-sonnet-20241022",
+        "event_name": "no-event",
+        "generated_at": "2025-02-11 18:51:27"
+    }
+}

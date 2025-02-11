@@ -1,0 +1,9 @@
+Here is a summary of how I would describe the voice and tone of this article to an AI model:
+
+The voice is authoritative and informative, with the tone of an expert guide providing recommendations and advice on the best laptops to buy. The language is clear, direct and leans towards being technical/specification-focused when describing the product details and performance. 
+
+However, it also has some more conversational, casual elements when giving opinions and trying to relate to the reader's needs and use cases (e.g. "If you want to play games, making games or doing video work you'll want a laptop with a discrete graphics card").
+
+The overall style aims to be helpful and insightful for the reader trying to navigate the complex laptop market and make an informed purchasing decision. The voice comes across as knowledgeable through hands-on testing data and benchmarks, but also adopts a friendly, relatable tone when appropriate to engage the reader.
+
+In summary, it blends an authoritative yet accessible voice - merging technical product expertise with conversational advice tailored to matching the right laptop with the reader's individual requirements and interests. The tone stays informative and guideline-oriented throughout.

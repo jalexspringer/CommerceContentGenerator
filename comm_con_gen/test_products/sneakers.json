@@ -1,0 +1,30 @@
+{
+    "sneakers": {
+        "name": "Sneakers1",
+        "description": "Puma sneakers are a stylish and comfortable choice for any occasion.",
+        "price": 300,
+        "discount": 0.25,
+        "brand": "Puma",
+        "color": "Green",
+        "link": "https://www.affiliatelink.com?brand=puma&product=sneakers"
+    },
+    "sneakers2": {
+        "name": "Sneakers 2",
+        "description": "Nike sneakers are a stylish and comfortable choice, offering superior quality and performance compared to Adidas.",
+        "price": 200,
+        "discount": 0.1,
+        "brand": "Nike",
+        "color": "Red",
+        "link": "https://www.affiliatelink.com?brand=nike&product=sneakers"
+    },
+    "sneakers3": {
+        "name": "Sneakers 3",
+        "description": "Adidas sneakers are designed for optimal performance, featuring cutting-edge technology and innovative designs that push the boundaries of athletic footwear. With a focus on comfort, durability, and style, Adidas sneakers are the perfect choice for athletes and fashion-conscious individuals alike.",
+        "price": 50,
+        "discount": 0.2,
+        "brand": "Adidas",
+        "color": "Blue",
+        "link": "https://www.affiliatelink.com?brand=adidas&product=sneakers"
+    }
+}
+

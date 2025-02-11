@@ -1,0 +1,30 @@
+{
+    "grill1": {
+        "name": "Grill 1",
+        "description": "A grill for the first time",
+        "price": 1000,
+        "discount": 0.1,
+        "brand": "Smith",
+        "color": "White",
+        "link": "https://www.affiliatelink.com?brand=smith&product=grill-1"
+    },
+    "grill2": {
+        "name": "Grill 2",
+        "description": "A grill for the second time",
+        "price": 2000,
+        "discount": 0.2,
+        "brand": "Jones",
+        "color": "Red",
+        "link": "https://www.affiliatelink.com?brand=jones&product=grill-2"
+    },
+    "grill3": {
+        "name": "Grill 3",
+        "description": "A grill for the third time",
+        "price": 3000,
+        "discount": 0.3,
+        "brand": "Williams",
+        "color": "Blue",
+        "link": "https://www.affiliatelink.com?brand=williams&product=grill-3"
+    }
+}
+

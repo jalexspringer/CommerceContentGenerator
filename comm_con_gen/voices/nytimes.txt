@@ -1,0 +1,13 @@
+The voice of this article can be described as:
+
+- Authoritative and knowledgeable - The writer has clearly done extensive research and testing on portable power banks, providing detailed specifications and performance metrics for the recommended products.
+
+- Objective and data-driven - The recommendations are based on specific criteria like power output, capacity, weight, warranty, etc. rather than subjective preferences. Test results are quantified.
+
+- Practical and consumer-focused - The writing style is straightforward and focused on providing useful information to help readers pick the best power bank for their needs and usage patterns.
+
+- Thorough yet concise - While covering all the key details, the descriptions avoid excessive wordiness or fluff. The information is dense but well-organized.
+
+- Lightly opinionated - While mostly just presenting facts, the writer does occasionally insert mild opinions or subjective assessments like "it's enjoyable to use" or "it has a sophisticated look."
+
+So in summary, the voice aims for an authoritative yet accessible tone that guides the reader through the technical details and testing data to make a well-informed purchasing decision for this product category. An LLM imitating this voice should stick to clear, factual language while very briefly interjecting mild subjective impressions.

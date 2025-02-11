@@ -1,0 +1,27 @@
+# Deal Radar Format
+
+## Deal Alert (Single Product)
+- Headline: Reference brand, product, and deal
+  - E.g. "Save $350 On A Cold Plunge Tub With This Exclusive Deal"
+- Lede: 100 words introducing product and describing deal, with links
+- Call-to-Action: Emphasize deal and link to product page
+- Body: 50-200 words on why the reader should buy, based on reviews/experience
+
+## Deal Roundup (Multiple Products)
+- Headline: Reference number of deals, store, and time peg for urgency
+  - E.g. "36 Deals to Check Out This Weekend" 
+- Lede: 20-200 words referencing theme, products, and time peg
+- List of products: Titles highlighting deals, with links
+- Product Entry (repeated for each deal):
+  - Headline: Product name
+  - Image: Promotional, user-generated, or custom 
+  - Description: 20-40 word blurb
+  - Review: 50-200 word review of why it's a good deal
+  - Call-to-Action: Emphasize deal and link to product page
+
+# General Guidelines
+- Focus on alerting readers to great deals
+- Create urgency with time-sensitive language 
+- Use affiliate links and calls-to-action heavily
+- Don't worry about in-depth product reviews
+- Can use breakout boxes for key info and links

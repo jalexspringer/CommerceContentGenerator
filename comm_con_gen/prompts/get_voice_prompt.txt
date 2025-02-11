@@ -1,0 +1,1 @@
+describe the voice of this article in a way that an llm would understand how to imitate that voice based on the description:

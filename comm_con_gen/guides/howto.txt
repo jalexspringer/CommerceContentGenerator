@@ -1,0 +1,22 @@
+# How-to Article Format
+
+## Tutorial
+- Headline: "How to [task]"
+- Lede: Describe why the task is useful/important
+- What you'll need: List required items with affiliate links
+- Body: Step-by-step instructions or sections with advice
+  - Include affiliate links and product descriptions
+
+## How to Shop
+- Headline: "How to choose/buy [product category]" 
+- Lede: Explain why the product is complex to shop for
+- Body: Sections covering different aspects of the product
+  - Include affiliate links, product descriptions, expert quotes
+- Why trust us: Writer's expertise and research sources
+
+# General Guidelines
+- Use affiliate links for recommended products
+- Include product descriptions and calls-to-action
+- Structure like a recipe (ingredients, steps)
+- Add expert quotes and personal anecdotes
+- Optimize for affiliate revenue and reader education
